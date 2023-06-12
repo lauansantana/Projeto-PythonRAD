@@ -113,3 +113,4 @@ websocket-client==1.5.0
 Werkzeug==2.3.4
 widgetsnbextension==4.0.5
 windows-curses==2.3.1
+pywin32==305
